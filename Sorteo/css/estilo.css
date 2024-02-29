@@ -1,0 +1,36 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+    button{
+    border-radius: 9px;
+    background-color: orange;
+    border: 0;
+    color: white;
+    padding: 5px;
+    }
+    section{
+    padding: 10px;
+    }
+    button{
+    margin: 5px;
+    }
+    #titulo{
+    display: flex;
+    justify-content: center;
+    }
+    #titulo h1{
+    width: 30%;
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    }
+    input{
+    border-radius: 9px;
+    color: orange;
+    border-bottom: 2;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    text-align: center;
+    }
